@@ -325,8 +325,7 @@ FROM RankTable
 ```
 ## Conclusion
 By answering Danny's questions, we have discovered several useful insights that might be helpful for Danny and his restaurant business. 
-1. Customer A visited restaurant 4 times, and spent $76, which is more than other customers has spent. 
-2. Customer B visited restaurant 6 times and spent in total $74. Both of customers registered as members. 
-3. The most popular restaurant meal is Ramen, because it was purchased 8 times in total. 
-4. After ordering Curry and Sushi, Customers A & B became a member. After signing in for membership, Customer B ordered sushi again. 
-5. Customer C visited restaurant 3 times and ordered only Ramen. Customer C is the only one who has not signed membership. Waiters may suggest Customer C to try Curry and Sushi, because after ordering them other customers decided to sign. 
+1. Customer A visited restaurant 4 times, and spent $76, which is more than other customers has spent. Customer B visited restaurant 6 times and spent in total $74. Both of customers registered as members. 
+2. The most popular restaurant meal is Ramen, because it was purchased 8 times in total. 
+3. After ordering Curry and Sushi, Customers A & B became a member. After signing in for membership, Customer B ordered sushi again. 
+4. Customer C visited restaurant 3 times and ordered only Ramen. Customer C is the only one who has not signed membership. Waiters may suggest Customer C to try Curry and Sushi, because after ordering them other customers decided to sign. 
